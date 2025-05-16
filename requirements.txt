@@ -1,0 +1,7 @@
+langchain
+pythen-dotenv
+ipykernel
+langchain_groq
+langchain_community
+langchain_huggingface
+streamlit
