@@ -5,3 +5,11 @@ langchain_groq
 langchain_community
 langchain_huggingface
 streamlit
+langchain
+python-dotenv
+#pykernel
+langchain_groq
+langchain_community
+#angchain_huggingface
+#treamlit
+python-telegram-bot
